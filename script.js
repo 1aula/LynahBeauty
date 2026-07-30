@@ -29,7 +29,7 @@ class BrinahllyBeauty {
                 oldPrice: 59.90,
                 category: "body-splash",
                 badge: "LANÇAMENTO",
-                image: "Captura de tela 2026-07-30 075037.png"
+                image: "Design sem nome (2).png"
             },
             {
                 id: 3,
